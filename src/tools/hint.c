@@ -11,6 +11,12 @@ static const char* BANNER = "\
 \t    \\/  \\/   |_| |_|\\__,_|_|\\___|   |_|  |_|\\__,_|_|  |_|\\_\\___|\\__|   (_)\n\
 ";
 
+static const char* SUCCESS = "\t\t*** Successful Operation ***";
+static const char* FAILURE = "\t\t*** Failed Operation ***";
+static const char* ILLEGAL = "\t\t*** Illegal Operation ***";
+static const char* LOADING = "\t\t*** Loading ... ***";
+static const char* EXITING = "\t\t*** Loading ... ***";
+
 static const char* INVALID = "\
 \t  _____                           _   _       _   _\n\
 \t |_   _|                         | | (_)     | | | |\n\
